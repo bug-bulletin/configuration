@@ -1,0 +1,24 @@
+include:	jdk8
+
+scowl:		scowl:60
+dict:		misc
+dict:		java-core-slang
+dict:		docking-frames
+authors:	docking-frames
+
+module:		core			docking-frames-core
+module:		common			docking-frames-common
+module:		demo-app		docking-frames-demo-app
+module:		demo-app-ice		docking-frames-demo-app-ice
+module:		demo-chess		docking-frames-demo-chess
+module:		demo-help		docking-frames-demo-help
+module:		demo-layouts		docking-frames-demo-layouts
+module:		demo-notes		docking-frames-demo-notes
+module:		demo-paint		docking-frames-demo-paint
+module:		demo-size-and-color	docking-frames-demo-size-and-color
+module:		demo-tutorial		docking-frames-demo-tutorial
+module:		ext-css-theme		docking-frames-ext-css-theme
+module:		ext-glass		docking-frames-ext-glass
+module:		ext-toolbar		docking-frames-ext-toolbar
+module:		ext-toolbar-common	docking-frames-ext-toolbar-common
+module:		ext-toolbar-tutorial	docking-frames-ext-toolbar-tutorial

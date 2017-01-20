@@ -1,0 +1,11 @@
+include:	jdk8
+
+include:	base-dicts
+dict:		jts
+dict:		jts-args
+authors:	jts
+
+module:		core		modules/core
+module:		app		modules/app
+module:		io		modules/io
+module:		example		modules/example

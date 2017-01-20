@@ -1,0 +1,11 @@
+include:	jdk8
+
+include:	base-dicts
+dict:		guava
+dict:		hashing
+authors:	guava
+
+module:		core		guava
+module:		gwt		guava-gwt
+module:		testlib		guava-testlib
+module:		tests		guava-tests

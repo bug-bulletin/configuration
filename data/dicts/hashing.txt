@@ -1,0 +1,6 @@
+sha-1
+sha-2
+sha-256
+sha-384
+sha-512
+md5

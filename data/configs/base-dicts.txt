@@ -1,0 +1,7 @@
+scowl:		scowl:60
+dict:		misc
+dict:		java-core-slang
+dict:		network
+dict:		web
+dict:		datatypes
+dict:		math
