@@ -1,0 +1,5 @@
+github		OpenHFT/Chronicle-Core			master			chronicle-core
+github		OpenHFT/Chronicle-Engine		master			chronicle-engine
+github		OpenHFT/Chronicle-Map			master			chronicle-map
+github		OpenHFT/Chronicle-Queue			master			chronicle-queue
+github		OpenHFT/SmoothieMap			master			smoothie-map
