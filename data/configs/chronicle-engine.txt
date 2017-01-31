@@ -1,0 +1,2 @@
+include:	chronicle
+dict:		chronicle-engine
