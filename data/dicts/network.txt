@@ -22,3 +22,5 @@ nameservice
 dns
 bgp
 loopback
+UDP
+TCP
