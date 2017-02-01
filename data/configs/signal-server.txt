@@ -1,0 +1,6 @@
+include:	jdk8
+
+include:	base-dicts
+dict:		whispersystems
+dict:		signal
+authors:	whispersystems
