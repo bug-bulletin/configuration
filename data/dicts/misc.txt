@@ -62,6 +62,8 @@ Vorbis
 Mozilla
 Firefox
 Thunderbird
+Eclipse
+IntelliJ
 google
 todo
 tooltip
