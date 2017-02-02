@@ -1,0 +1,48 @@
+0979097955s@gmail.com (RX)
+Agustín Delgado, Servinform, S.A.
+Alex Dupre
+Antonio Manuel Benjumea Conde, Servinform, S.A.
+Ari Pollak
+Bas Vijfwinkel
+Betaminos
+Brad Drehmer
+Daniel Switkin
+David Olivier
+David Walker
+Eduardo Castillejo, University of Deusto (eduardo.castillejo@deusto.es)
+Frank Yellin
+Fred Lin
+Guenther Grau
+Guillaume Le Biller
+Hannes Erven
+Isaac Potoczny-Jones
+Jacob Haynes
+Kamil Kaczmarczyk
+Lachezar Dobrev
+Manuel Kasten
+Nikolaus Huber
+Pablo Orduña, University of Deusto (pablo.orduna@deusto.es)
+Rustam Abdullaev
+SITA Lab (kevin.osullivan@sita.aero)
+Satoru Takabayashi
+Sean Owen
+Vikram Aggarwal
+William Rucklidge
+Yohann Coppel
+alasdair@google.com (Alasdair Mackintosh)
+aripollak@gmail.com (Ari Pollak)
+bbrown@google.com (Brian Brown)
+code@elektrowolle.de (Wolfgang Jung)
+creatale GmbH (christoph.schulz@creatale.de)
+dsbnatut@gmail.com (Kazuki Nishiura)
+dswitkin@google.com (Daniel Switkin)
+erik.barbara@gmail.com (Erik Barbara)
+gcstang
+jbreiden@google.com (Jeff Breidenbach)
+kevin.osullivan@sita.aero
+kevin.osullivan@sita.aero, SITA Lab.
+mike32767
+mysen@google.com (Chris Mysen)
+qwandor@google.com (Andrew Walbran)
+sanfordsquires
+satorux@google.com (Satoru Takabayashi)

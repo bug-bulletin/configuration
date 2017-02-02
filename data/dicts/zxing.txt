@@ -1,0 +1,16 @@
+zxing
+barcode
+barcodes
+codeword
+codewords
+luminance
+luminances
+ints
+ISO/IEC
+ECI
+RSS
+UPC/EAN
+monomial
+unrotated
+unskewed
+greyscale
