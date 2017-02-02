@@ -9,6 +9,9 @@ supersets
 submap
 submaps
 
+multimap
+multimaps
+
 subcollection
 subcollections
 
