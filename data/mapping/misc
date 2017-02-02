@@ -3,3 +3,4 @@ github		jhy/jsoup				master			jsoup
 github		locationtech/jts			master			jts
 github		qos-ch/logback				master			logback
 github		qos-ch/slf4j				master			slf4j
+github		zxing/zxing				master			zxing
