@@ -101,8 +101,17 @@ EOFException
 
 GC
 GCed
+jit
 
 getter
 getters
 setter
 setters
+
+stacktrace
+baseclass
+baseclasses
+instanceof
+JNDI
+JMX
+JSR
