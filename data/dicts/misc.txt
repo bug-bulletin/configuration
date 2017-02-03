@@ -266,6 +266,7 @@ parallelizing
 cryptographic
 cryptographically
 timestamp
+timestamps
 synchronized
 unsynchronized
 nullable

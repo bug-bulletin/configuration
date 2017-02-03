@@ -1,0 +1,5 @@
+include:	jdk8
+
+include:	base-dicts
+dict:		joda-time
+authors:	joda-time
