@@ -1,0 +1,4 @@
+include:	jdk8
+
+include:	base-dicts
+dict:		commons-lang

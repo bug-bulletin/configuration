@@ -211,6 +211,7 @@ unescaping
 charset
 signedness
 endian
+endianness
 little-endian
 big-endian
 bracketless
