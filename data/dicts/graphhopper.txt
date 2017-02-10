@@ -1,0 +1,12 @@
+OSM
+osm
+PBF
+bendiness
+JSON
+GeoJSON
+graphhopper
+interpolator
+unfavored
+routable
+Lucene
+Bresenham
