@@ -1,0 +1,6 @@
+ambiguousnesses
+uncapitalize
+uncapitalizes
+uncapitalized
+uncapitalization
+titlecase
