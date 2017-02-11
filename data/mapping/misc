@@ -9,3 +9,4 @@ github		apache/commons-lang			master			commons-lang
 github		k9mail/k-9				master			k9
 github		graphhopper/graphhopper			master			graphhopper
 github		schildbach/public-transport-enabler	master			public-transport-enabler
+github		elastic/elasticsearch			master			elasticsearch
