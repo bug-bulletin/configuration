@@ -1,3 +1,3 @@
 github		apache/commons-lang			master			commons-lang
-github		apache/commons-cli			trunk			commons-cli
+github		apache/commons-cli			master			commons-cli
 github		apache/commons-io			master			commons-io
