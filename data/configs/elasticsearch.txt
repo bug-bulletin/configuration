@@ -4,8 +4,6 @@ include:	base-dicts
 dict:		elasticsearch
 authors:	elasticsearch
 
-module:		core-main	core/src/main
-module:		core-test	core/src/test
 module:		modules		modules
 module:		plugins		plugins
 module:		test		test
